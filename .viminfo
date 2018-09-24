@@ -9,6 +9,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+:q
 :q!
 
 # Search String History (newest to oldest):
@@ -22,11 +23,49 @@
 # Registers:
 
 # File marks:
-'0  2  38  ~/README.md
-'1  1  12  ~/.git/project1
-'2  7  0  /etc/hosts
+'0  1  14  ~/file1
+'1  2  38  ~/README.md
+'2  1  12  ~/.git/project1
+'3  7  0  /etc/hosts
 
 # Jumplist (newest first):
+-'  1  14  ~/file1
+-'  2  38  ~/README.md
+-'  1  0  ~/README.md
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  2  38  ~/README.md
+-'  1  0  ~/README.md
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  2  38  ~/README.md
+-'  1  0  ~/README.md
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
 -'  2  38  ~/README.md
 -'  1  0  ~/README.md
 -'  1  12  ~/.git/project1
@@ -41,6 +80,12 @@
 -'  1  0  /etc/hosts
 
 # History of marks within files (newest to oldest):
+
+> ~/file1
+	"	1	14
+	^	1	15
+	.	1	15
+	+	1	15
 
 > ~/README.md
 	"	2	38
