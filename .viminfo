@@ -23,12 +23,14 @@
 # Registers:
 
 # File marks:
-'0  1  14  ~/file1
-'1  2  38  ~/README.md
-'2  1  12  ~/.git/project1
-'3  7  0  /etc/hosts
+'0  1  33  ~/file2
+'1  1  14  ~/file1
+'2  2  38  ~/README.md
+'3  1  12  ~/.git/project1
+'4  7  0  /etc/hosts
 
 # Jumplist (newest first):
+-'  1  33  ~/file2
 -'  1  14  ~/file1
 -'  2  38  ~/README.md
 -'  1  0  ~/README.md
@@ -78,8 +80,62 @@
 -'  1  0  /etc/hosts
 -'  7  0  /etc/hosts
 -'  1  0  /etc/hosts
+-'  1  14  ~/file1
+-'  2  38  ~/README.md
+-'  1  0  ~/README.md
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  2  38  ~/README.md
+-'  1  0  ~/README.md
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  2  38  ~/README.md
+-'  1  0  ~/README.md
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  2  38  ~/README.md
+-'  1  0  ~/README.md
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  12  ~/.git/project1
+-'  7  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  7  0  /etc/hosts
 
 # History of marks within files (newest to oldest):
+
+> ~/file2
+	"	1	33
+	^	1	34
+	.	1	33
+	+	1	33
 
 > ~/file1
 	"	1	14
